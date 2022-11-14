@@ -1,0 +1,23 @@
+.ordered-list{
+    background: #ff00ff;
+    width: 100%;
+    height: 100px;
+    padding: 20px;
+    
+}
+
+.list{
+    color: #fff;
+}
+
+.unordered-list{
+    background: red;
+    width: 100%;
+    height: 100px;
+    padding: 20px;
+
+}
+
+.unordered-list .list{
+    color: #000;
+}
